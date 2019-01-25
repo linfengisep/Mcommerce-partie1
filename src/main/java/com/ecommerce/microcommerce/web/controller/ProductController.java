@@ -62,10 +62,6 @@ public class ProductController {
 
         return produit;
     }
-
-
-
-
     //ajouter un produit
     @PostMapping(value = "/Produits")
 
